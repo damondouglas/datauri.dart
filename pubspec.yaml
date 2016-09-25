@@ -1,0 +1,8 @@
+name: datauri
+version: 0.0.1
+description: Generates data uri from file.
+dependencies:
+  mime: '>=0.9.3 <0.10.0'
+
+executable:
+  datauri: null
